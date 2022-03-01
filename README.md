@@ -6,7 +6,7 @@
 
 <img src="./screenshots/banner.png" alt="Imagem de vizualização do site">
 
-🚀 [Acesse o site para iniciar o jogo](https://allbertuu.github.io/game-genesis/) 🚀 
+🚀 [Acesse o site para iniciar o jogo](https://gleicianesilva.github.io/jogo-do-genesis/) 🚀 
 
 
 ## 💻 Tecnologias desenvolvidas no projeto: 👨‍💻
