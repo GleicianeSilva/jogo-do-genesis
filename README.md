@@ -23,7 +23,7 @@
     <td align="center">
       <a href="https://github.com/GleicianeSilva">
         <sub>
-          <h1>Gleiciane Silva</h1>
+          <h1 lign="center">Gleiciane Silva</h1>
         </sub>
       </a>
     </td>
