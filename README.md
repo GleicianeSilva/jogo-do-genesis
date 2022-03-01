@@ -19,6 +19,6 @@
 
 ## 💡 Desenvolvido por:
 
-<h2 lign="center">Gleiciane Silva</h2>
+<h2 align="center">Gleiciane Silva</h2>
 
 
