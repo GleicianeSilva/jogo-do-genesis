@@ -9,9 +9,9 @@
   </img>
 </h1>
 
-<h1 align="center"> 
+<h3 align="center"> 
   🚀 [Acesse o site para iniciar o jogo](https://gleicianesilva.github.io/jogo-do-genesis/) 🚀 
-</h1>
+</h3>
 
 ## 💻 Tecnologias desenvolvidas no projeto: 👨‍💻
 
