@@ -1,6 +1,6 @@
 <h1 align="center"> Jogo do Genesis 🎮 </h1>
 
-<h2 💬 Informações sobre o projeto: </h2>
+## 💬 Informações sobre o projeto:
 
 > O objeto deste projeto é colocar em prática tudo aquilo aprendido nas aulas do Bootcamp Eduzz Fullstack Developer #3.
 
@@ -9,7 +9,7 @@
 🚀 [Acesse o site para iniciar o jogo](https://allbertuu.github.io/game-genesis/) 🚀 
 
 
-<h2 💻 Tecnologias desenvolvidas no projeto: 👨‍💻 </h2>
+## 💻 Tecnologias desenvolvidas no projeto: 👨‍💻
 
 - HTML;
 - CSS;
