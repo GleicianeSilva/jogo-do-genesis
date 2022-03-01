@@ -8,6 +8,7 @@
 
 🚀 [Acesse o site para iniciar o jogo](https://allbertuu.github.io/game-genesis/) 🚀 
 
+
 <h2 💻 Tecnologias desenvolvidas no projeto: 👨‍💻 </h2>
 
 - HTML;
@@ -18,7 +19,6 @@
 
 ## 💡 Desenvolvido por:
 
-<table>
   <tr>
     <td align="center">
       <a href="https://www.github.com/allbertuu">
@@ -28,4 +28,4 @@
       </a>
     </td>
   </tr>
-</table>
+
