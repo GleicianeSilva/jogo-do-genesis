@@ -1,0 +1,87 @@
+body {
+    background-color:rgb(0, 0, 0);
+    color: #fcfcfc;
+    font-family: Comic Sans MS;
+    text-align: center;
+    
+}
+
+footer {
+    text-align: center;
+    color: #fcfcfc;
+    margin-top: 1.5rem;
+    font-size: 1rem;
+}
+
+
+.main-game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genius {
+    display: grid;
+    grid-template-areas: 'verde vermelho'
+    'amarelo azul';
+    grid-gap: 10px;
+    border: 1px solid #0a0a0a;
+    background-color: #8a8888;
+    border-radius: 100%;
+    width: 600px;
+    height: 600px;
+}
+
+.blue {
+    grid-area: azul;
+    background-color: blue;
+    border-bottom-right-radius: 100%;
+}
+
+.blue:hover {
+    transform: translateY(-1.5px);
+    box-shadow: 0px 0px 30px rgb(251, 251, 251);
+  }
+
+.red {
+    grid-area: vermelho;
+    background-color: red;
+    border-top-right-radius: 100%;
+}
+
+.red:hover {
+    transform: translateY(-1.5px);
+    box-shadow: 0px 0px 30px rgb(251, 251, 251);
+  }
+
+.yellow {
+    grid-area: amarelo;
+    background-color: yellow;
+    border-bottom-left-radius: 100%;
+}
+
+.yellow:hover {
+    transform: translateY(-1.5px);
+    box-shadow: 0px 0px 30px rgb(251, 251, 251);
+  }
+
+.green {
+    grid-area: verde;
+    background-color: green;
+    border-top-left-radius: 100%;
+}
+
+.green:hover {
+    transform: translateY(-1.5px);
+    box-shadow: 0px 0px 30px rgb(251, 251, 251);
+  }
+
+.selected {
+    opacity: 0.8;
+
+}
+
+.selected:hover {
+    transform: translateY(-1.5px);
+    box-shadow: 0px 0px 30px rgb(251, 251, 251);
+  }
