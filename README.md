@@ -4,10 +4,10 @@
 
 > O objeto deste projeto é colocar em prática tudo aquilo aprendido nas aulas do Bootcamp Eduzz Fullstack Developer #3.
 
-<img src="gleicianesilva.github.io_jogo-do-genesis_ (1).png" alt="Imagem de vizualização do site">
+<img align="center" src="gleicianesilva.github.io_jogo-do-genesis_ (1).png" alt="Imagem de vizualização do site">
 
 
-🚀 [Acesse o site para iniciar o jogo](https://gleicianesilva.github.io/jogo-do-genesis/) 🚀 
+🚀 [Acesse o site para iniciar o jogo](align="center" https://gleicianesilva.github.io/jogo-do-genesis/) 🚀 
 
 
 ## 💻 Tecnologias desenvolvidas no projeto: 👨‍💻
