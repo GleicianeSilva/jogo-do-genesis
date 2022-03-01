@@ -1,4 +1,4 @@
-<h1 align="center"> Jogo do Genesis 🎮 </h1>
+  <h1 align="center"> Jogo do Genesis 🎮 </h1>
 
 ## 💬 Informações sobre o projeto:
 
@@ -9,7 +9,7 @@
   </img>
 </h1>
 
-🚀 [Acesse o site para iniciar o jogo](https://gleicianesilva.github.io/jogo-do-genesis/) 🚀
+    🚀 [Acesse o site para iniciar o jogo](https://gleicianesilva.github.io/jogo-do-genesis/) 🚀
 
 ## 💻 Tecnologias desenvolvidas no projeto: 👨‍💻
 
