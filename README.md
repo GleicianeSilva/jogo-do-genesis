@@ -19,11 +19,6 @@
 
 ## 💡 Desenvolvido por:
 
-  <tr>
-      <a href="https://github.com/GleicianeSilva">
-        <sub>
-          <h1 lign="center">Gleiciane Silva</h1>
-        </sub>
-      </a>
-  </tr>
+<h2 lign="center">Gleiciane Silva</h2>
+
 
