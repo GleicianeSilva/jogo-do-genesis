@@ -6,6 +6,7 @@
 
 <img src="./screenshots/banner.png" alt="Imagem de vizualização do site">
 
+
 🚀 [Acesse o site para iniciar o jogo](https://gleicianesilva.github.io/jogo-do-genesis/) 🚀 
 
 
